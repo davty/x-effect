@@ -1,6 +1,6 @@
 ## X-effect App
 
-https://travis-ci.org/davty/elixir-language-server.svg?branch=master
+[![Build Status](https://travis-ci.org/davty/elixir-language-server.svg?branch=master)](https://travis-ci.org/davty/elixir-language-server)
 
 A simple X-effect app 
 
