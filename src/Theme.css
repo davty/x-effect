@@ -1,0 +1,8 @@
+.theme {
+  border: 1px dashed #ccc;
+  font-size: 3em;
+  padding: 0.7em;
+  text-align: center;
+  width: 60%;
+  margin: 0.5em;
+}

@@ -1,0 +1,11 @@
+
+.options label {
+  font-weight: bold;
+  font-size: 0.9em;
+  text-align: left;
+  width: 100%;
+}
+
+.options .count {
+  font-size: 0.8em;
+}
