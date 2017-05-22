@@ -25,7 +25,7 @@ class Theme extends Component {
           type="text"
           onChange={event => this.onChange(event)}
           className="theme"
-          placeholder="Enter a theme, e.g. Exercise"
+          placeholder="A theme, e.g. Exercise"
           value={theme}
         />
       </div>);

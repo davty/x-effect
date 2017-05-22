@@ -25,7 +25,7 @@ class Requirements extends Component {
           type="text"
           onChange={event => this.onChange(event)}
           className="requirements"
-          placeholder="Enter a theme, e.g. Exercise"
+          placeholder="Requirements for fullfilling an X, e.g. 5 push ups every evening"
           value={requirements}
         />
       </div>
