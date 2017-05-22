@@ -48,6 +48,7 @@ class Toolbar extends Component {
 
 Toolbar.defaultProps = {
   requirements: '',
+  theme: '',
 };
 
 Toolbar.propTypes = {

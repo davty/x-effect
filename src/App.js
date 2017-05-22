@@ -25,8 +25,8 @@ class App extends Component {
     this.setState(theme);
   }
 
-  onRequirementsChange(event) {
-    this.setState({ requirements: event.target.value });
+  onRequirementsChange(value) {
+    this.setState(value);
   }
 
   render() {
