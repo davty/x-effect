@@ -6,7 +6,8 @@ it('renders without crashing', () => {
   shallow(<App />);
 });
 
-it('displays a table with correct amount of cells', () => {
+it('displays a default table with correct amount of cells', () => {
   const app = mount(<App />);
-  expect(app.find('td')).to.have.length(28);
+  expect(app.find('td').length).toBe(28);
 });
+

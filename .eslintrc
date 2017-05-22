@@ -7,6 +7,7 @@
   },
   "globals": {
     "it": true,
-    "document": true
+    "document": true,
+    "expect": true
   }
 }
